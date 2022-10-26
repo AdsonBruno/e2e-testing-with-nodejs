@@ -21,6 +21,8 @@ Este projeto tem como objetivo o estudo de *Testes End-to-End (E2E)* e *Testes u
   > @swc/core
   > @swc/jest
   > ts-node
+  > dotenv
+  > pg - drive do postgres
 
 ### Backend: 
 
